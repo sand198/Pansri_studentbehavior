@@ -7,9 +7,6 @@ We gathered students profile information from 215 thai high level students using
     <img src = "output/clustering_figure.jpg" width = "700"/>
 </p>    
 
-We then performed Principal Component Analysis of the extracted embeddings and used that PCA components for classification task. In our research we used Support Vector Machine (SVM) for the classification of seven individual Sika deer.
-
-
 **Learning Patterns**
  After collecting the time datasets and navigation frequency for each student, we classified the data into six categories: consistency score, interval score, response score, page frequency, hint count, and note-taking frequency. 
 

@@ -1,0 +1,6 @@
+#Python dependencies required for the development
+pandas
+sklearn
+
+
+
